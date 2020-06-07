@@ -4,7 +4,7 @@ Lampone Pi is a live Debian arm64 port for the Raspberry Pi.
 
 **For experts**
 
-How to uild the live image: https://github.com/marco-buratto/lamponepi.live-build
+How to build the live image: https://github.com/marco-buratto/lamponepi.live-build
 
 How write the live image file onto a SD card so that it's compliant to be booted by a Raspberry Pi: https://github.com/marco-buratto/lamponepi.installer
 
