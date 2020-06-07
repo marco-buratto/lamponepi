@@ -1,4 +1,4 @@
-# Lampone Pi, installing the live ISO
+# Lampone Pi
 
 Lampone Pi is a live Debian arm64 port for the Raspberry Pi.
 
